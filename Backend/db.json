@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Danilo Amaral",
+      "email": "danilo123@hotmail.com",
+      "turma": "A",
+      "ano": "2021"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Carlos de Oliveira",
+      "email": "daniel123oliveira@hotmail.com",
+      "turma": "A",
+      "ano": "2020"
+    },
+    {
+      "name": "Diogo Felipe",
+      "email": "diogo@hotmail.com.br",
+      "turma": "B",
+      "ano": "2021",
+      "id": 3
+    }
+  ]
+}
